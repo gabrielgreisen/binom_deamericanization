@@ -6,4 +6,4 @@ def read_chain():
 
 df = read_chain()
 
-print(df.head())
+print(df)
