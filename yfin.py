@@ -1,4 +1,4 @@
-import yfinance as yf
+import yfin as yf
 import pandas as pd
 from datetime import datetime
 from typing import List, Tuple
