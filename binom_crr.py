@@ -1,6 +1,7 @@
 import math
 
 def binomial_crr(Option: str, K: int, T: int, S_0: float, sigma: float, r: float, q: float, N: float, Exercise: str):
+    
     """
     Approximates the price of an option using the Cox-Ross-Rubinstein model
 
